@@ -1,0 +1,17 @@
+{
+    "name": "dbd-net/signed-request",
+    "description": "Sign and validate HTTP requests",
+    "authors": [
+        {
+            "name": "Steve Harmeyer",
+            "email": "sharmeyer@dbd.net"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "DBD\\SignedRequest\\": "src/"
+        }
+    }
+}
